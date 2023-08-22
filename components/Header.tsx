@@ -28,31 +28,37 @@ export default function Header({}: Props) {
           url='https://www.linkedin.com/in/joysarkarbd/'
           fgColor='gray'
           bgColor='transparent'
+          target='_blank'
         />
         <SocialIcon
           url='https://www.facebook.com/webdev.joysarkar/'
           fgColor='gray'
           bgColor='transparent'
+          target='_blank'
         />
         <SocialIcon
           url='https://twitter.com/Joy_Sarkar_BD'
           fgColor='gray'
           bgColor='transparent'
+          target='_blank'
         />
         <SocialIcon
           url='https://www.instagram.com/joy_sarkar_bd'
           fgColor='gray'
           bgColor='transparent'
+          target='_blank'
         />
         <SocialIcon
           url='https://github.com/JoySarkarBD'
           fgColor='gray'
           bgColor='transparent'
+          target='_blank'
         />
         <SocialIcon
           url='https://api.whatsapp.com/send?phone=8801681928047'
           fgColor='gray'
           bgColor='transparent'
+          target='_blank'
         />
       </motion.div>
 
